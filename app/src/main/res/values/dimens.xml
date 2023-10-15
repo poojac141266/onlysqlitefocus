@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="box_inset_layout_padding">0dp</dimen>
+    <dimen name="inner_frame_layout_padding">5dp</dimen>
+    <dimen name="general_padding">10dp</dimen>
+    <dimen name="general_magrin">8dp</dimen>
+    <dimen name="button_magins">10dp</dimen>
+    <dimen name="elevation">12dp</dimen>
+</resources>
